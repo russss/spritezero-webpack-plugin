@@ -1,12 +1,17 @@
 {
-  "name": "webpack-spritezero",
+  "name": "spritezero-webpack-plugin",
   "version": "0.1.0",
-  "description": "",
+  "description": "A simple plugin to build spritezero sprites from webpack",
   "main": "lib/Plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Russ Garrett",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russss/spritezero-webpack-plugin.git"
+  },
+  "homepage": "https://github.com/russss/spritezero-webpack-plugin#readme",
   "license": "ISC",
   "dependencies": {
     "@mapbox/spritezero": "^6.1.0"
